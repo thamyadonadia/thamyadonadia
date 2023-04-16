@@ -5,7 +5,7 @@
 </h1>
 
 - Computer Engineering Student at Universidade Federal do Espírito Santo
-- Currently studying Data Science and Java 
+- Currently studying Algorithms and Data Science
 
 <div align="center">
   <a href="https://github.com/ThamyaDonadia">
